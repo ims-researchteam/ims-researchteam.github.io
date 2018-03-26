@@ -23,4 +23,4 @@ weight = 5
 # **I**T Architecture and **M**odel Driven **S**ystems Development
 The work of the IMS team concerns model-driven software engineering and multi-system modeling.
 IMS brings together researchers of various specialties (components, services, boss, development process, real-time modeling, embedded systems, multi-view systems, multi-agents, ...).
-It purposes is urbanization, design, realization, integration and maintenance of adapted, safe and quality information systems.
+It purpose is urbanization, design, realization, integration and maintenance of adapted, safe and quality information systems.
