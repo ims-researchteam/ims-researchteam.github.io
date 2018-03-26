@@ -23,12 +23,65 @@ weight = 10
   # All team member's pictures are stored under 'static/img/team'.
   # Replace them with your own too.
   # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
+
+# Permanents
   [[team.members]]
-    img = "jmb.jpg"
-    name = "Jean-Michel Bruel"
-    url = "https://jmbruel.github.io/smartjmb/"
+    img = "elasri.jpg"
+    name = "Bouchra EL ASRI"
+    position = "Professor"
+    worksAt = "ENSIAS, UM5R"
+
+    [[team.members]]
+      img = "elfaker.jpg"
+      name = "Abdellatif EL FAKER"
+      position = "Professor"
+      worksAt = "ENSIAS, UM5R"
+      social = [
+        ["fa-twitter", "https://twitter.com/elhamlaoui"],
+        ["fa-linkedin", "https://www.linkedin.com/in/mahmoud-el-hamlaoui-466b8617/"
+      ]]
+      [[team.members]]
+        img = "mahmoud.jpg"
+        name = "Mahmoud EL HAMLAOUI"
+        position = "Associate Professor"
+        worksAt = "ENSIAS, UM5R"
+        social = [
+          ["fa-twitter", "https://twitter.com/elhamlaoui"],
+          ["fa-linkedin", "https://www.linkedin.com/in/mahmoud-el-hamlaoui-466b8617/"]
+        ]
+        [[team.members]]
+          img = "ettalbi.jpg"
+          name = "Ahmed ETTALBI"
+          position = "Professor"
+          worksAt = "ENSIAS, UM5R"
+          social = [
+            ["fa-twitter", "https://twitter.com/elhamlaoui"],
+            ["fa-linkedin", "https://www.linkedin.com/in/mahmoud-el-hamlaoui-466b8617/"]
+          ]
+          [[team.members]]
+            img = "ezzahid.jpg"
+            name = "Soumia EZZAHID"
+            position = "Professor"
+            worksAt = "ENSIAS, UM5R"
+            social = [
+              ["fa-twitter", "https://twitter.com/elhamlaoui"],
+              ["fa-linkedin", "https://www.linkedin.com/in/mahmoud-el-hamlaoui-466b8617/"]
+            ]
+            [[team.members]]
+              img = "krioule.jpg"
+              name = "Abdelaziz KRIOUILE,"
+              position = "Professor"
+              worksAt = "ENSIAS, UM5R"
+              social = [
+                ["fa-twitter", "https://twitter.com/elhamlaoui"],
+                ["fa-linkedin", "https://www.linkedin.com/in/mahmoud-el-hamlaoui-466b8617/"]
+              ]
+  [[team.members]]
+    img = "nassar.jpg"
+    name = "Mahmoud NASSAR"
+#   url = "https://jmbruel.github.io/smartjmb/"
     position = "Professor, Head of the team"
-    worksAt = "IUT Blagnac, Toulouse"
+    worksAt = "ENSIAS, UM5R"
 #    scope = [
 #      "UX for [member dashboard](#)",
 #      "Maintainer for [awesome-project](#)",
@@ -40,150 +93,76 @@ weight = 10
       ["fa-linkedin", "https://www.linkedin.com/in/jmbruel/"]
     ]
 
-# Permanents
-  [[team.members]]
-    img = "pjc.jpg"
-    name = "Pierre-Jean Charrel"
-    position = "Professor"
-    worksAt = "UT2J, Toulouse"
-
-  [[team.members]]
-    img = "benoit.jpg"
-    name = "Benoît Combemale"
-    position = "Professor"
-    # For bio markdown and even multiline strings are available.
-    worksAt = "UT2J, Toulouse"
-    social = [
-      ["fa-home", "http://combemale.fr/"],
-      ["fa-twitter", "https://twitter.com/bcombemale"],
-      ["fa-linkedin", "https://www.linkedin.com/in/combemale"]
-    ]
-
-  [[team.members]]
-    img = "bc.jpg"
-    name = "Bernard Coulette"
-    position = "Professor"
-    worksAt = "UT2J, Toulouse"
-
-  [[team.members]]
-    img = "sophie.png"
-    name = "Sophie Ebersold"
-    position = "Associate Professor"
-    worksAt = "UT2J, Toulouse"
 
 # Students
 
   [[team.students]]
     img = "portrait.jpg"
-    name = "Ronan Baduel"
-    position = "Ph.D. CIFRE, Bombardier Transportation"
-    worksAt = "UT2J, Toulouse"
+    name = "Tarik FISSAA"
+    position = "Ph.D."
+    worksAt = "ENSIAS, UM5R"
 
-  [[team.students]]
-    img = "portrait.jpg"
-    name = "Saloua Bennani"
-    position = "Co-tutelle"
-    worksAt = "UT2J, Toulouse"
 
-  [[team.students]]
-    img = "portrait.jpg"
-    name = "Mohammad Chami"
-    position = "Ph.D. Freelance"
-    worksAt = "UPS, Toulouse"
 
-  [[team.students]]
-   img = "mamadou.jpg"
-   name = "Mamadou Lakhassane Cissé"
-   position = "Ph.D. MAE Campus France Grant"
-   worksAt = "UT2J, Toulouse"
-
-  [[team.students]]
-    img = "fcoulon.png"
-    name = "Fabien Coulon"
-    position = "Ph.D. [CIFRE](http://gemoc.org/kaulua/), Obeo"
-    worksAt = "UT2J, Toulouse"
-
-  [[team.students]]
-   img = "florian.jpg"
-   name = "Florian Galinier"
-   position = "Ph.D. Grant"
-   worksAt = "UPS, Toulouse"
-
-  [[team.students]]
-    img = "portrait.jpg"
-    name = "Samia Iltache"
-    position = "Co-tutelle"
-    worksAt = "UT2J, Toulouse"
-
-  [[team.students]]
-    img = "portrait.jpg"
-    name = "Maroun Koussaifi"
-    position = "Ph.D. Grant"
-    worksAt = "UPS, Toulouse"
-
-  [[team.students]]
-    img = "portrait.jpg"
-    name = "Manuel Leduc"
-    position = "Pôle d'Excellence Cyber Grant"
-    worksAt = "U. of Rennes"
-
-  [[team.students]]
-    img = "portrait.jpg"
-    name = "Renan Leroux"
-    position = "IRT Saint Exupery Grant"
-   worksAt = "UPS, Toulouse"
-
-  [[team.students]]
-    img = "portrait.jpg"
-    name = "Dorian Leroy"
-    position = "Ph.D. Austrian [Tetrabox](https://www.big.tuwien.ac.at/projects/40) project"
-    worksAt = "TU Wien, Austria"
-
-  [[team.students]]
-  img = "anael.jpg"
-  name = "Anaël Megna"
-  position = "Ph.D. CIFRE Safran Tech"
-  worksAt = "UT2J, Toulouse"
-
-  [[team.students]]
-    img = "portrait.jpg"
-    name = "Otmani Nassim Abdeldjallal"
-    position = "Ph.D. Cotutelle: UMMTO, UT2J"
-    worksAt = "UT2J, Toulouse"
-
-  [[team.students]]
-    img = "portrait.jpg"
-    name = "Alexandr Naumchev"
-    position = "Innopolis University"
-    worksAt = "UPS, Toulouse"
-
-  [[team.students]]
-    img = "portrait.jpg"
-    name = " Abdeldjallal Otmani Nassim"
-    position = "Co-tutelle"
-    worksAt = "UT2J, Toulouse"
-
+  #[[team.students]]
+  #  img = "fcoulon.png"
+  #  name = "Fabien Coulon"
+  #  position = "Ph.D. [CIFRE](http://gemoc.org/kaulua/), Obeo"
+  #  worksAt = "UT2J, Toulouse"
 
 # Associates
 
   [[team.associates]]
-    img = "meyer.jpg"
-    name = "Bertrand Meyer"
+    img = "portrait.jpg"
+    name = "Hicham BEHJA"
     position = "Professor"
-    worksAt = "Politecnico di Milano / Innopolis University"
-    social = [
-      ["fa-home", "https://bertrandmeyer.com/"],
-      ["fa-linkedin", "https://www.linkedin.com/in/bertrandmeyer/"]
-    ]
+#    worksAt = "INPT"
   [[team.associates]]
-    img = "mahmoud.jpg"
-    name = "Mahmoud El Hamlaoui"
-    position = "Associate Professor"
-    worksAt = "U. Med V Souissi ENSIAS/SIME Laboratory"
-    social = [
-      ["fa-twitter", "https://twitter.com/elhamlaoui"],
-      ["fa-linkedin", "https://www.linkedin.com/in/mahmoud-el-hamlaoui-466b8617/"]
-    ]
+    img = "portrait.jpg"
+    name = "Bernard COULETTE"
+    position = "Professor"
+#    worksAt = "INPT"
+  [[team.associates]]
+    img = "portrait.jpg"
+    name = "Mohamed DAHCHOUR"
+#    position = "Professor"
+     worksAt = "INPT"
+  [[team.associates]]
+    img = "portrait.jpg"
+    name = "Zineb EL AKKAOUI"
+    position = "Professor"
+#    worksAt = "INPT"
+[[team.associates]]
+  img = "portrait.jpg"
+  name = "Mina EL MAALLAM"
+  position = "Professor"
+#    worksAt = "INPT"
+[[team.associates]]
+  img = "portrait.jpg"
+  name = "Hatim HAFIDDI"
+  position = "Professor"
+  worksAt = "INPT"
+  [[team.associates]]
+    img = "portrait.jpg"
+    name = "Adil KENZI"
+    position = "Professor"
+  #    worksAt = "INPT"
+  [[team.associates]]
+    img = "portrait.jpg"
+    name = "Younes LAKHRISSI"
+    position = "Professor"
+  #    worksAt = "INPT"
+  [[team.associates]]
+    img = "portrait.jpg"
+    name = "Abdelaziz MARZAK"
+    position = "Professor"
+  #    worksAt = "INPT"
+  [[team.associates]]
+    img = "portrait.jpg"
+    name = "Maryem RHANOUI"
+    position = "Professor"
+  #    worksAt = "INPT"
+
 
 
 +++

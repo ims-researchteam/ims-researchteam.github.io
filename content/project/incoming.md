@@ -1,21 +1,21 @@
 +++
 # Date this page was created.
-date = "2017-11-01"
+date = "2017-10-19"
 
 # Project title.
-title = "Bombardier Transport"
+title = "Incoming"
 
 # Project summary to display on homepage.
-summary = "An integrated model-based early validation approach for Railway Systems"
+summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bombardier.png"
+# image_preview = "gemoc.png"
 
 # Tags: can be used for filtering projects.
-tags = ["lean", "mbse","validation"]
+tags = ["language"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.researchgate.net/project/An-integrated-model-based-early-validation-approach-for-Railway-Systems"
+# external_link = "http://gemoc.org"
 
 # Does the project detail page use math formatting?
 math = false

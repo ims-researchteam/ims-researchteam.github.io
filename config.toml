@@ -7,7 +7,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 paginate = 10
 publishDir = "./"
-team = "SM@RT"
+team = "IMS"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
@@ -28,28 +28,29 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `JMB` or `coffee`.
-  color_theme = "jmb"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, `playfair` or `yanone`.
   font = "yanone"
 
   # Your details.
-  name = "Reliability of Systems & Software"  # Theme 7
+  name = "IMS"  # Theme 7
   # role = "IRIT Laboratory"                # Lab
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Toulouse", url = "http://www.univ-toulouse.fr/" },
-    {name = "ADMIR Laboratory", url = "https://www.irit.fr" }]
+  organizations = [ { name = "University Mohammed V in Rabat", url = "http://www.um5.ac.ma/um5r/" },
+    { name = "Rabat IT Center", url = "http://www.rabat-it-center.org/" },
+    {name = "ADMIR Laboratory", url = "http://www.rabat-it-center.org/index.php/la-recherche/publications-recentes/laboratoires/8-news/latest-news/316-advanced-digital-entreprise-modeling-and-information-retrieval-admir" }]
 
   gravatar = false   # Get your avatar from Gravatar.com? (true/false)
-  avatar = "sm@rt-logo.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "bruel@irit.fr"
+  avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "nassar@ensias.com"
   address = "Avenue Mohammed Ben Abdallah Regragui, Madinat Al Irfane, BP 713, Agdal Rabat, Maroc"
   #office_hours = "http://doodle.com/jmbruel"
   #phone = "+33 (0)6.07.65.19.70"
-  twitter = "SmartModelTeam"
+  twitter = ""
   # skype = "jmbruel"
   # telegram = "jmbruel"
 
@@ -143,17 +144,17 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:bruel@irit.fr"
+    link = "mailto:mahmoud.elhamlaoui@gmail.com"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/SmartResearchTeam"
+    link = "//twitter.com/elhamlaoui"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/smart-researchteam"
+    link = "//github.com/elhamlaoui"
 
 #  [[params.social]]
 #    icon = "researchgate"

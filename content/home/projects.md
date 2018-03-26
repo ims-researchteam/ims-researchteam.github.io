@@ -34,7 +34,11 @@ filter_default = 0
   tag = ".language"
 
 [[filter]]
-  name = "Requirements"
-  tag = ".requirements"
+  name = "Context-aware"
+  tag = ".context"
+
+[[filter]]
+  name = "Governance of IS"
+  tag = ".governance"
 
 +++

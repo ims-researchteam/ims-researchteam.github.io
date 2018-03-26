@@ -12,15 +12,15 @@ weight = 5
 # List your academic interests.
 [topics]
   topics = [
-    "Software Agility and Safety for Cyber-Physical Systems",
-    "Modeling and Languages Engineering",
-    "FUN (Final User Need) at the center of the concerns"
+   "Modeling and Languages Engineering",
+   "Modeling and Interoperable Systems Engineering",
+   "Context-aware service-oriented architecture",
+   "Mobile agent systems",
+   "Urbanization and Strategic Governance of Information Systems"
   ]
 
 +++
-
-# **S**mart **M**odeling for softw**@**re **R**esearch & **T**echnology
-
-{{< smart >}} is a software engineering team of the {{< theme7 >}} department that specializes in software agility and safety for cyber-physical systems. The team explores new foundations, and develops ground-breaking tools and methods for modeling and software languages (domain-specific languages, specification languages, programming and modeling languages), with a particular focus on the scientific breakthroughs related to socio-technical coordination (heterogeneity of models and execution platforms, final user in the loop, etc.). 
-{{< smart >}} is a leading team in model-driven engineering (MDE) and software language engineering (SLE). The team is highly involved in the international scientific community, and has established strong industrial partnerships (through bilateral and collaborative projects). 
-{{< smart >}} seconds most of the scientific contributions with software developments. The team is also highly involved in various open-source communities (e.g., Eclipse), and contributes to different projects.
+# **I**T Architecture and **M**odel Driven **S**ystems Development
+The work of the IMS team concerns model-driven software engineering and multi-system modeling.
+IMS brings together researchers of various specialties (components, services, boss, development process, real-time modeling, embedded systems, multi-view systems, multi-agents, ...).
+It purposes is urbanization, design, realization, integration and maintenance of adapted, safe and quality information systems.
